@@ -1,4 +1,4 @@
-# Amazon Dashboard 📊
+# Amazon-sales-analysis-dashboard 📊
 
 An interactive **Amazon Sales Analysis Dashboard** built to analyze sales performance, product trends, customer reviews, and category-wise revenue using data visualization.
 
